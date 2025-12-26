@@ -1,0 +1,23 @@
+this is my handwritten document
+created using my own handwriting
+Handwriting App Updates
+I have updated the application to support A4 page formatting, automatic pagination, custom font sizing, and cursive-style letter spacing.
+
+New Features
+1. Letter Spacing (Cursive Mode)
+Added a Spacing slider to the toolbar.
+Positive values (e.g., 5, 10) creates wide spacing.
+Negative values (e.g., -5, -10) causes characters to overlap, simulating cursive handwriting.
+
+2. Font Size Control
+Adjust text size from 20% to 80% with the Size slider.
+Document automatically repaginates to fit the new size.
+
+3. A4 Canvas Dimensions
+The canvas is sized to 794px x 1123px (A4 at 96 DPI).
+Perfect for PDF export.
+Verification
+Manual Verification
+Cursive Effect: Move the "Spacing" slider to the left (negative). Verify letters touch each other.
+Font Size: Move "Size" slider. Verify text grows/shrinks.
+Pagination: Paste long text and use Next/Prev buttons to navigate.
